@@ -4,6 +4,7 @@ Products added by sellers will be visible. To add your own products, or to buy p
 Add any number of your own products, edit or delete them at will. If you forget your password, click on reset password. Check your email, click the reset link, and add your new password without any hassle.
 
 Tech Stack: <br>
+Javascript <br>
 NodeJS <br>
 ExpressJS <br>
 MongoDB (mongoose) <br>
